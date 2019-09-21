@@ -1,0 +1,10 @@
+C:\Users\reela\source\repos\sql kayıt ornekleri\sql kayıt ornekleri\bin\Debug\sql kayıt ornekleri.exe.config
+C:\Users\reela\source\repos\sql kayıt ornekleri\sql kayıt ornekleri\bin\Debug\sql kayıt ornekleri.exe
+C:\Users\reela\source\repos\sql kayıt ornekleri\sql kayıt ornekleri\bin\Debug\sql kayıt ornekleri.pdb
+C:\Users\reela\source\repos\sql kayıt ornekleri\sql kayıt ornekleri\obj\Debug\sql kayıt ornekleri.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\sql kayıt ornekleri\sql kayıt ornekleri\obj\Debug\sql_kayıt_ornekleri.Form1.resources
+C:\Users\reela\source\repos\sql kayıt ornekleri\sql kayıt ornekleri\obj\Debug\sql_kayıt_ornekleri.Properties.Resources.resources
+C:\Users\reela\source\repos\sql kayıt ornekleri\sql kayıt ornekleri\obj\Debug\sql kayıt ornekleri.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\sql kayıt ornekleri\sql kayıt ornekleri\obj\Debug\sql kayıt ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\sql kayıt ornekleri\sql kayıt ornekleri\obj\Debug\sql kayıt ornekleri.exe
+C:\Users\reela\source\repos\sql kayıt ornekleri\sql kayıt ornekleri\obj\Debug\sql kayıt ornekleri.pdb
